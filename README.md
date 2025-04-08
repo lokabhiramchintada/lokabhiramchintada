@@ -1,12 +1,83 @@
-- 👋 Hi, I’m @lokabhiramchintada
-- 👀 I’m interested in Machine Learning, Computer Vision
-- 🌱 I’m currently learning Image Processing
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me lokabhiram@outlook.com
-- 😄 Pronouns: Abhi
-  
+<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Lokabhiram Chintada</span>!</h1>
+<h3 align="center">🚀 Research Intern | ML Developer | IoT Enthusiast | Full Stack Engineer</h3>
 
-<!---
-lokabhiramchintada/lokabhiramchintada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="mailto:lokabhiram@outlook.com"><img src="https://img.shields.io/badge/Email-lokabhiram@outlook.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/lokabhiram-chintada/"><img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://lokabhiram.tech"><img src="https://img.shields.io/badge/Portfolio-lokabhiram.tech-orange?style=flat-square&logo=google-chrome"></a>
+  <a href="https://github.com/lokabhiramchintada"><img src="https://img.shields.io/github/followers/lokabhiramchintada?style=social"></a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" />
+
+---
+
+### 🧠 About Me
+
+- 🎓 B.Tech in ECE @ **JNTU Kakinada** | B.Sc in DS @ **IIT Madras**
+- 🧪 Currently: **Research Software Intern at IIIT Hyderabad**
+- 🧠 Interests: CV, DL, IoT, Automation, Edge AI
+- 🛠 I love building smart, scalable, and sustainable tech for the real world
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages: Python | JavaScript | Java | SQL | C | Bash
+Frameworks: Flask | Vue.js | PyTorch | TensorFlow | Keras | OpenCV
+Tools: Redis | Celery | Docker | Git | Postman
+Domains: IoT | Image Processing | Machine Learning | Web Dev
+```
+
+---
+
+### 🌟 Highlight Projects
+🚮 Smart Waste Management (IIIT-H)
+YOLOv8 + Canny + Gaussian filters to detect dumping trends, offenders, and bin levels.
+
+🧍‍♂️ Crowd Monitoring with Emotion Detection
+Real-time people count + sentiment analysis in PyTorch for public safety insights.
+
+🛠️ Multi-User Household Services App
+Flask + Redis + Celery + VueJS for managing jobs & batch tasks with high performance.
+
+🔥 Fire Detection & Personnel System
+MobileNetSSD for emergency alerts and personnel safety in real-time.
+
+🏠 Smart Home Automation
+BLE + MQTT + IR blasters to control and monitor home appliances.
+
+📢 Influencer Engagement Platform
+Role-based full-stack platform to manage brand–influencer collabs.
+
+---
+
+### 💼 Experience
+🧠 IIIT Hyderabad – Research Software Intern
+Smart waste systems, crowd monitoring, and home automation.
+
+📡 BSNL Visakhapatnam – Telecom Intern
+Hands-on with fiber optics, PSTN, broadband & network troubleshooting.
+
+🏫 IIT Madras Council – Web Admin & Deputy Secretary
+Organized events, managed website, and bridged industry-student interaction.
+
+---
+
+### 📜 Certifications & Achievements
+🎓 Diploma in Programming — IIT Madras (2022–2024)
+
+🎓 Foundations of Data Science & Programming — IIT Madras (2022)
+
+🧠 GATE Qualified — Data Science and AI, and Electronics and Communication
+
+---
+
+### 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokabhiramchintada&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokabhiramchintada&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
+🌍 Let's Connect
+<p align="center"> <a href="mailto:lokabhiram@outlook.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"></a> <a href="https://www.linkedin.com/in/lokabhiram-chintada/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://lokabhiram.tech"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome"></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=120&section=footer"/>
