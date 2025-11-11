@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:lokabhiram@outlook.com"><img src="https://img.shields.io/badge/Email-lokabhiram@outlook.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/lokabhiram-chintada/"><img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://lokabhiram.tech"><img src="https://img.shields.io/badge/Portfolio-lokabhiram.tech-orange?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.lokabhiram.tech"><img src="https://img.shields.io/badge/Portfolio-lokabhiram.tech-orange?style=flat-square&logo=google-chrome"></a>
   <a href="https://github.com/lokabhiramchintada"><img src="https://img.shields.io/github/followers/lokabhiramchintada?style=social"></a>
 </p>
 
