@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc">Lokabhiram Chintada</span>!</h1>
-<h3 align="center">🚀 Research Intern | ML Developer | IoT Enthusiast | Full Stack Engineer</h3>
+<h3 align="center">🚀 Research Scholar | ML Developer | IoT Enthusiast | Full Stack Engineer</h3>
 
 <p align="center">
   <a href="mailto:lokabhiram@outlook.com"><img src="https://img.shields.io/badge/Email-lokabhiram@outlook.com-blue?style=flat-square&logo=gmail"></a>
@@ -16,8 +16,8 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in ECE @ **JNTU Kakinada** | B.Sc in DS @ **IIT Madras**
-- 🧪 Currently: **Research Software Intern at IIIT Hyderabad**
+- 🎓 MS by Research in ECE @ **IIIT Hyderabad** | B.Tech in ECE @ **JNTU Kakinada** | B.Sc in DS @ **IIT Madras**
+- 🧪 Currently: **Research Assistant at IIIT Hyderabad**
 - 🧠 Interests: CV, DL, IoT, Automation, Edge AI
 - 🛠 I love building smart, scalable, and sustainable tech for the real world
 
