@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Lokabhiram Chintada</span>!</h1>
-<h3 align="center">🚀 Research Scholar | ML Developer | IoT Enthusiast | Full Stack Engineer</h3>
+<h1 align="center"> Hi, I'm <span style="color:#007acc">Lokabhiram Chintada</span>!</h1>
+<h3 align="center"> Research Scholar | ML Engineer | IoT Enthusiast | Full Stack Developer </h3>
 
 <p align="center">
   <a href="mailto:lokabhiram@outlook.com"><img src="https://img.shields.io/badge/Email-lokabhiram@outlook.com-blue?style=flat-square&logo=gmail"></a>
@@ -68,11 +68,13 @@ Organized events, managed website, and bridged industry-student interaction.
 ---
 
 ### 📜 Certifications & Achievements
+🏆 Winner - LLoyd's Banking Group Agentic AI Hackathon 2025 
+
 🎓 Diploma in Programming — IIT Madras (2022–2024)
 
 🎓 Foundations of Data Science & Programming — IIT Madras (2022)
 
-🧠 GATE Qualified — Data Science and AI, and Electronics and Communication
+🧠 GATE Qualified — Data Science and AI, and Electronics and Communication (2024)
 
 ---
 
